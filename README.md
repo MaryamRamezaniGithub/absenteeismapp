@@ -1,6 +1,6 @@
 # absenteeismapp
 
- Goal: The goal of this project is building an application that predicts the absence or presence of a company's employees
+Goal: The goal of this project is building an application that predicts the absence or presence of a company's employees
 This repository contains code for a machine learning model that predicts absenteeism based on various factors. The project includes a custom scaler class and a special class for predicting absenteeism using a trained model.
 
 Project Structure
